@@ -38,4 +38,4 @@ Sample output is in each folder's `output.txt`.
 (Replace with the real links after creating them; numbering may differ.)
 
 ## Status
-Work in progress.
+Status: all exercises complete.
