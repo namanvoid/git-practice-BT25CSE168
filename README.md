@@ -38,4 +38,4 @@ Sample output is in each folder's `output.txt`.
 (Replace with the real links after creating them; numbering may differ.)
 
 ## Status
-Status: ready for review.
+Status: all exercises complete and ready for review.
