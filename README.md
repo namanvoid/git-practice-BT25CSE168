@@ -30,12 +30,12 @@ You can also run any script without `< input.txt` to type input yourself.
 Sample output is in each folder's `output.txt`.
 
 ## GitHub Activity
-- Issue #1: https://github.com/namanvoid/git-practice-BT25CSE168/issues/1
-- Issue #2: https://github.com/namanvoid/git-practice-BT25CSE168/issues/2
-- PR #3: https://github.com/namanvoid/git-practice-BT25CSE168/pull/3
-- PR #4: https://github.com/namanvoid/git-practice-BT25CSE168/pull/4
+- Issue #1: https://github.com/namanvoid/git-practice-BT25CSE168/issues/2
+- Issue #2: https://github.com/namanvoid/git-practice-BT25CSE168/issues/1
+- PR #3: https://github.com/namanvoid/git-practice-BT25CSE168/pull/4
+- PR #4: https://github.com/namanvoid/git-practice-BT25CSE168/pull/3
 
-(Replace with the real links after creating them; numbering may differ.)
+
 
 ## Status
 Status: all exercises complete and ready for review.
